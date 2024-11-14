@@ -10,3 +10,10 @@ I have contributed to the principal task (task 1) with other 2 members of the te
 The model was creted and tested on the dataset which is load in the repository (diabetes classification.xlsl), then the model was tested on the unseen dataset provided by the challege organizers.
 
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
