@@ -1,8 +1,5 @@
 Personal solution of the Hackaton problem organized by Randstad Italia, we work in a team composed of 5 members.
 
-
-I have contributed to the main task (task 1) with other 2 members of the team, while the other 2 members work on the additional task.
-
 The model was built and tested on the dataset that is loaded in the repository (diabetes classification.xlsl), then the model was tested on the unseen dataset provided by the challenge organizers.
 
 ## Table of Contents
@@ -14,20 +11,22 @@ The model was built and tested on the dataset that is loaded in the repository (
 - [Contact](#contact)
 
 ## Installation
-Clone the repository, install dependencies, etc.
+1. Clone the repository:
+   ```
+   https://github.com/Clausapone/randstad_hackaton.git
+   ```
+2. Install the necessary dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-Instructions for running the project, with examples.
+The main file is written in jupyter notebook, it is suggested to use it on colab
 
 ## Features
-- Feature 1
-- Feature 2
+- Use of the DistilBert model to obtain the embeddings in a few time 
+- Use of a neural network to classify review of the dataset
 
 ## Contributing
-Steps to contribute to the project.
+I have contributed to the main task (task 1) with other 2 members of the team, while the other 2 members work on the additional task.
 
-## License
-Licensed under the MIT License. See `LICENSE` for more details.
-
-## Contact
-Your contact information or acknowledgments.
