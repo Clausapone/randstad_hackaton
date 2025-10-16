@@ -24,7 +24,7 @@ The model was built and tested on the dataset that is loaded in the repository (
 The main file is written in jupyter notebook, it is suggested to use it on colab
 
 ## Features
-- Use of the DistilBert model to obtain the embeddings in a few time 
+- Use of the DistilBert model to obtain the embeddings in an optimized time 
 - Use of a neural network to classify review of the dataset
 
 ## Contributing
